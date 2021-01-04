@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Web Development with Python and JavaScript - Course: HarvardX CS50W
+- [x] HTML and CSS
+- [ ] GIT
