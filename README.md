@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning Web Development with Python and JavaScript - Course: HarvardX CS50W
 - [x] HTML and CSS
-- [ ] GIT
+- [x] GIT
+- [x] PYTHON
+- [ ] DJANGO
