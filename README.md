@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - [x] HTML and CSS
 - [x] GIT
 - [x] PYTHON
-- [ ] DJANGO
+- [x] DJANGO
