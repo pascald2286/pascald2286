@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Web Development with Python and JavaScript - Course: HarvardX CS50W
-- [x] HTML and CSS
-- [x] GIT
-- [x] PYTHON
-- [x] DJANGO
